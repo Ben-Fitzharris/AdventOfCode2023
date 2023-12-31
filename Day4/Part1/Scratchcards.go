@@ -61,6 +61,6 @@ func main() {
 		sum += stackOfCards[cNum].count
 
 	}
-
+	//test
 	fmt.Println("The sum of the winning cards is: ", sum)
 }
